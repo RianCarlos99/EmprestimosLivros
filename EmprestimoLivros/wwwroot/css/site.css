@@ -16,3 +16,12 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.image {
+    width: 100%;
+    max-width: 300px;
+}
+
+img {
+    width: 100%;
+}
